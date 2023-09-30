@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins','sans-serif';
+}
+
+/* top */
+.top{
+    background-color: #917FB3;
+}
+.fit{
+    padding: .5em;
+    text-align: center;
+}
+
+/* left */
+.left{
+    background-color: #4e395d;
+}
+
+.tableshadow{
+    padding: 40px;
+}
